@@ -3,7 +3,7 @@
 ## Contacts
 
 * __Location:__ Minsk, Belarus
-* __Phone:__ +3754472466--
+* __Phone:__ +3754472466**
 * __Email:__ jassmina_121@mail.ru
 * __GitHub:__ Jassmina-M
 * [Instagram](https://www.instagram.com/_jassminka_/)
@@ -27,7 +27,7 @@ function sum(a, b) {
   return a + b;
 }
 
-let result = sum(1, 3);
+let result = sum(1, 4);
 alert( result );
 
 ```
